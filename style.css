@@ -1,6 +1,5 @@
 body {
-    background-image: url("background.gif");
-    background-repeat: repeat;
+    background-image: url('https://wallpaperscraft.com/image/halloween_holiday_pumpkin_black_background_smiling_41093_1920x1080.jpg');
 }
 
 h1 {
@@ -13,4 +12,17 @@ p {
   color: red;
   font-family: 'Creepster', cursive;
   font-size: 3em;
+}
+
+iframe{
+  transform: translateX(350px);
+  /*transform: translateY(-300px);*/
+
+}
+
+button{
+  display: block;
+  margin-left:auto;
+  margin-right: auto;
+
 }
